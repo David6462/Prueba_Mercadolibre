@@ -107,7 +107,7 @@ https://github.com/David6462/Prueba_Mercadolibre.git
 ```
 cd Prueba_Mercadolibre
 ```
-##Correr el proyecto
+## Correr el proyecto
 En la consola escribir
 ```
 npm install 
