@@ -110,9 +110,13 @@ cd Prueba_Mercadolibre
 ##Correr el proyecto
 En la consola escribir
 ```
+npm install 
+```
+Luego
+```
 npm start 
 ```
 Y se abrirá el navegador con la
-siguiente URL para visualizar el programa.
+siguiente URL para visualizar el programa:
 
 http://localhost:3000
