@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+## **Las instrucciones para ejecutar el proyecto se encuentran más abajo.**
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -68,3 +70,49 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# prueba_Mercadolibre
+## Trabajo a resolver
+
+La aplicación consta de tres componentes principales: la caja de búsqueda, la visualización de
+resultados, y la descripción del detalle del producto.
+
+Tenés que usar el siguiente stack tecnológico para construir la aplicación:
+
+● Cliente:
+    
+    ○ HTML
+    ○ JS (Deseable utilizar React o Backbone)
+    ○ CSS (Deseable utilizar Sass)
+● Servidor:
+
+    ○ Node >= 6
+    ○ Express
+Para resolverlo, te pedimos que tengas en cuenta:
+
+● Usabilidad
+
+● SEO
+
+● Performance
+
+● Escalabilidad
+
+## Descargar:
+Para la ejecución del archivo debe tener instalado Node js
+
+```
+https://github.com/David6462/Prueba_Mercadolibre.git
+```
+```
+cd Prueba_Mercadolibre
+```
+##Correr el proyecto
+En la consola escribir
+```
+npm start 
+```
+Y se abrirá el navegador con la
+siguiente URL para visualizar el programa.
+
+http://localhost:3000
