@@ -1,0 +1,51 @@
+$meli-yellow: #FFE600;
+$meli-dark: #000;
+$meli-dark-gray: #333333;
+$meli-medium-gray: #666666;
+$meli-gray: #999999;
+$meli-light-gray: #EEEEEE;
+$meli-blue: #3483FA;
+$meli-white: #FFF;
+
+$spacing-8: 8px;
+$spacing-16: 16px;
+$spacing-32: 32px;
+$spacing-48: 48px;
+$spacing-64: 64px;
+
+.results-item {
+    display: inline-flex;
+    padding: $spacing-16;
+    position: relative;
+    width: 100%;
+    color: $meli-dark;
+  
+    &__thumbnail {
+      padding-right: $spacing-16;
+      width: 180px;
+      height: 180px;
+  
+      .img {
+        height: 100%;
+        border: 1px solid $meli-light-gray;
+      }
+    }
+  
+    &__price {
+      font-size: 24px;
+      margin-top: 0;
+      margin-bottom: $spacing-32;
+    }
+  
+    &__location {
+      color: $meli-gray;
+      font-size: 12px;
+      position: absolute;
+      top: 0;
+      right: 16px;
+    }
+  
+    &__title {
+      font-size: 18px;
+    }
+  }
